@@ -1,0 +1,19 @@
+.container {
+    padding: 20px;
+}
+
+.form-div {
+    width: 70%;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: rgba(217, 223, 226, 0.61);
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+}
